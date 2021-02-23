@@ -7,3 +7,4 @@
 - [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
 - https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know
 - [How to turn an object into query string parameters in JavaScript - howchoo](https://howchoo.com/g/nwywodhkndm/how-to-turn-an-object-into-query-string-parameters-in-javascript)
+- [Working With the Keyboard \| KIRUPA](https://www.kirupa.com/html5/keyboard_events_in_javascript.htm)
